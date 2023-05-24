@@ -1,0 +1,22 @@
+{
+  "license": "MIT",
+  "author": "clement4saunier",
+  "name": "solid-ethers",
+  "version": "0.0.0",
+  "description": "Ethers integration for SolidJS",
+  "keywords": [
+      "solid",
+      "solidjs",
+      "ethers",
+      "ethersjs",
+      "ethereum"
+  ],
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "ethers": "^6.3.0",
+    "solid-js": "^1.6.10"
+  }
+}
